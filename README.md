@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michalkrzem
-- 👀 I’m interested in Python REST API - Fastapi, data engineering - Pandas and many other tech.
-- 🌱 I’m currently learning Django, FAST API, Docker, pytest
+- 👀 I’m interested in Python REST API - Fastapi, web dev - Django, data engineering - Pandas and many other tech.
+- 🌱 I’m currently learning Django, FAST API, Docker, docker-compose, pytest
 
 <!---
 michalkrzem/michalkrzem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
